@@ -1,4 +1,5 @@
 {
+	"spider": "https://raw.githubusercontent.com/diguo66/abc2/main/custom_spider.jar",
 	"spider": "https://raw.fastgit.org/catvod/CatVodTVSpider/master/jar/custom_spider.jar",
 	"spider": "http://pao.95318.cf/custom_spider.jar",
 	"sites": [
